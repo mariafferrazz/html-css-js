@@ -1,6 +1,7 @@
 @import url(./utilidades/componentes.css);
 @import url(./utilidades/cores.css);
 @import url(./utilidades/tipografia.css);
+@import url(./utilidades/formularios.css);
 @import url(./global/global.css);
 @import url(./global/footer.css);
 @import url(./global/header.css);
@@ -16,3 +17,5 @@
 @import url(./seguros/perguntas.css);
 @import url(./bicicleta/bicicleta.css);
 @import url(./bicicleta/seguro.css);
+@import url(./contato/contato.css);
+@import url(./contato/lojas.css);
